@@ -8,7 +8,7 @@ Este projeto define um banco de dados completo para o setor de Recursos Humanos,
 
 O diagrama abaixo ilustra visualmente as tabelas do sistema de RH e seus relacionamentos principais (1:N):
 
-![[Diagrama de Entidade-Relacionamento](./images/Relacionamento.png)](https://github.com/tiago639/Criao_banco-de-Dados/tree/master#:~:text=4%20minutos%20atr%C3%A1s-,Relacionamento.png,-Adicionando%20arquivos%20do)
+![Diagrama de Relacionamento](Relacionamento.png)
 ---
 
 ## 🏗️ Estrutura Completa das Tabelas
