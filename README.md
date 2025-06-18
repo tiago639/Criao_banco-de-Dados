@@ -185,3 +185,11 @@ CREATE TABLE folha_pagamento (
 - Utilize este banco como base para sistemas de RH, folha de pagamento e controle organizacional.
 - O campo `mes_ano` permite armazenar registros mensais da folha em formato amigável.
 - É possível adaptar os campos para incluir controle de férias, avaliações de desempenho e histórico salarial.
+## 📄 Licença
+
+Este projeto está licenciado sob a **Licença MIT** — veja o arquivo [LICENSE](LICENSE) para mais informações.
+
+---
+## 👤 Autor
+
+**Tiago Fonseca**
